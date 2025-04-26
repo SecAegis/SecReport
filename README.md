@@ -15,13 +15,13 @@ ChatGPT加持的，多人协同信息安全渗透测试报告`编写`/`导出`�
 
 ## 社区版私有部署方案
 
-> 单机版仅供社区交流学习，禁止任何商业/OEM行为，商业版请联系邮箱[sec-report@outlook.com](mailto:sec-report@outlook.com)。
+> 单机版仅供社区交流学习，禁止任何商业/OEM行为，商业版请联系邮箱[secaegis@outlook.com](mailto:secaegis@outlook.com)。
 
 ### 安装 && 运行
 
 ```shell
 mkdir SecReport && cd SecReport
-wget https://raw.githubusercontent.com/sec-report/SecReport/main/run.sh
+wget https://raw.githubusercontent.com/SecAegis/SecReport/main/run.sh
 chmod +x run.sh
 ./run.sh
 ```
@@ -78,7 +78,7 @@ Docker全部运行后访问 [http://127.0.0.1/](http://127.0.0.1/) 初始化管�
 
 ## 其他作品
 
-[SecAutoBan](https://github.com/sec-report/SecAutoBan)：安全设备告警IP全自动封禁平台，支持百万IP秒级分析处理。
+[SecAutoBan](https://github.com/SecAegis/SecAutoBan)：安全设备告警IP全自动封禁平台，支持百万IP秒级分析处理。
 
 ## Star History
 
