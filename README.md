@@ -82,6 +82,6 @@ Docker全部运行后访问 [http://127.0.0.1/](http://127.0.0.1/) 初始化管�
 
 ## Star History
 
-<a href="https://github.com/sec-report/SecReport/stargazers">
-    <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=sec-report/SecReport&type=Date">
+<a href="https://github.com/SecAegis/SecReport/stargazers">
+    <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=SecAegis/SecReport&type=Date">
 </a> 
