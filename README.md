@@ -1,7 +1,7 @@
 # SecReport
 ChatGPT加持的，多人协同信息安全渗透测试报告`编写`/`导出`平台
 
-[官方网站](https://sec-report.com)
+[官方网站](https://secaegis.com)
 
 * 标准化渗透测试流程
 * 多人协同编辑
